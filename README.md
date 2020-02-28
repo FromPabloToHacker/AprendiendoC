@@ -21,9 +21,3 @@ Para compilar el programa pondremos en nuestra consola de linux:
 
 Y para ejecutarlo haremos:
     ./nombreDelPrograma
-
-La carpeta incluye un archivo .sh (ejecutar.sh) que servirá para automatizar la compilación y ejecución.
-Para utilizarlo primero le cambiaremos los permisos:
-    chmod +rwx ejecutar.sh
-Y luego lo ejecutaremos
-    ./ejecutar.sh
